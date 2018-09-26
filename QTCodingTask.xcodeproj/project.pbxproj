@@ -22,7 +22,6 @@
 		AB3CA2DC215904D4003A557D /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = AB3CA2DB215904D4003A557D /* MBProgressHUD.m */; };
 		AB3CA2DE21590525003A557D /* NetworkReachabilityManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB3CA2DD21590525003A557D /* NetworkReachabilityManager.swift */; };
 		AB3CA2E0215905C0003A557D /* ReusableViewProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB3CA2DF215905C0003A557D /* ReusableViewProtocol.swift */; };
-		AB4483A7215A400D00742AFF /* QTModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB4483A6215A400D00742AFF /* QTModels.swift */; };
 		AB4483B2215AE18B00742AFF /* QTStoryDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB4483B0215AE18B00742AFF /* QTStoryDetailViewController.swift */; };
 		AB4483B3215AE18B00742AFF /* QTStoryDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = AB4483B1215AE18B00742AFF /* QTStoryDetailViewController.xib */; };
 		AB4483EB215B583900742AFF /* QTConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB4483EA215B583900742AFF /* QTConstants.swift */; };
@@ -73,7 +72,6 @@
 		AB3CA2DD21590525003A557D /* NetworkReachabilityManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkReachabilityManager.swift; sourceTree = "<group>"; };
 		AB3CA2DF215905C0003A557D /* ReusableViewProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReusableViewProtocol.swift; sourceTree = "<group>"; };
 		AB3CA2E12159063D003A557D /* QTCodingTask-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "QTCodingTask-Bridging-Header.h"; sourceTree = "<group>"; };
-		AB4483A6215A400D00742AFF /* QTModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QTModels.swift; sourceTree = "<group>"; };
 		AB4483B0215AE18B00742AFF /* QTStoryDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QTStoryDetailViewController.swift; sourceTree = "<group>"; };
 		AB4483B1215AE18B00742AFF /* QTStoryDetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = QTStoryDetailViewController.xib; sourceTree = "<group>"; };
 		AB4483EA215B583900742AFF /* QTConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QTConstants.swift; sourceTree = "<group>"; };
@@ -213,7 +211,6 @@
 			children = (
 				AB3CA2DF215905C0003A557D /* ReusableViewProtocol.swift */,
 				AB3CA2D721590327003A557D /* Extensions.swift */,
-				AB4483A6215A400D00742AFF /* QTModels.swift */,
 				AB4483EA215B583900742AFF /* QTConstants.swift */,
 			);
 			path = Utilities;
@@ -376,7 +373,6 @@
 				AB448436215B6BEF00742AFF /* ImagePrefetcher.swift in Sources */,
 				AB44842E215B6BEF00742AFF /* Box.swift in Sources */,
 				AB448435215B6BEF00742AFF /* ImageModifier.swift in Sources */,
-				AB4483A7215A400D00742AFF /* QTModels.swift in Sources */,
 				AB3CA2A62158F4A2003A557D /* AppDelegate.swift in Sources */,
 				AB448440215B6BEF00742AFF /* Resource.swift in Sources */,
 			);
